@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ma02_20190972</string>
+    <string name="serviceKey">CWrcYagrwEq%2FhRKG2ZkksDsrla7VXjk4Mj6707whjJ%2BcJqOB93U%2FTG0lDkMwD7DIxq%2Bl0hf9YRSgyDgQGg5D0g%3D%3D</string>
+    <string name="google_api_key">AIzaSyCfIHrdqK1MlcqjAFjkHNkia-fzyPg7e9E</string>
+    <string name="init_lat">37.604094</string>
+    <string name="init_lng">127.042463</string>
+    <string name="service_not_available">서비스를 사용할 수 없습니다.</string>
+    <string name="invalid_lat_long_used">잘못된 위도/경도 입니다.</string>
+    <string name="no_address_found">주소를 찾을 수 없습니다.</string>
+    <string name="address_found">주소를 찾았습니다.</string>
+    <string name="no_geocoder_available">사용가능한 Geocoder가 없습니다.</string>
+</resources>

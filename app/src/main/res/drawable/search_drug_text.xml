@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 일반 상태일 때의 모양 및 색상 -->
+    <item android:state_focused="false">
+        <shape android:shape="rectangle">
+            <stroke android:width="2dp" android:color="#72A6FF" />
+            <corners android:radius="4dp"/>
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+</selector>
